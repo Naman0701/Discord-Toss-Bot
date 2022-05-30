@@ -3,7 +3,7 @@ import random
 import os
 
 TOKEN=os.environ['TOKEN']
-
+ol=['Bind','Haven','Split','Ascent','Icebox','Breeze','Fracture']
 client=discord.Client()
 
 @client.event
