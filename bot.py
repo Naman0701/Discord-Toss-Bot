@@ -2,8 +2,8 @@ import discord
 import random
 import os
 
-# TOKEN=os.environ['TOKEN']
-TOKEN='OTgwNTQ0Nzg0Mzc0NTY3MDEy.G3HrQA.wU5Om8fxEE5WUb94pp3e98upXbR5mPuRPDsIAY'
+TOKEN=os.environ['TOKEN']
+ol=['Bind','Haven','Split','Ascent','Icebox','Breeze','Fracture']
 client=discord.Client()
 
 ol=['Bind','Split','Breeze','Fracture','Haven','Icebox','Ascent']
